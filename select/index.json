@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "sukuwalation",
+  "base_artist": "ぎゅる子",
+  "createdAt": "2026-03-04T02:11:25.535908Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "sukuwalation",
+      "artist": "ぎゅる子",
+      "has_synced": false,
+      "path": "select/pl_01_sukuwalation_ぎゅる子.txt"
+    }
+  ]
+}
